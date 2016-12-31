@@ -16,11 +16,14 @@ defmodule AbrilOnline.Router do
   scope "/", AbrilOnline do
     pipe_through :browser # Use the default browser stack
 
-    get "/", PageController, :index
-  end
+    get "/", PageController, :quienes_somos
 
-  # Other scopes may use custom stacks.
-  # scope "/api", AbrilOnline do
-  #   pipe_through :api
-  # end
+    get "/quienes_somos", PageController, :quienes_somos
+    get "/servicios", PageController, :servicios
+    get "/solvencia_ii", PageController, :solvencia_ii
+    get "/prevision_social", PageController, :prevision_social
+    get "/formacion", PageController, :formacion
+    get "/varios", PageController, :varios
+    get "/contacto", PageController, :contacto
+  end
 end

@@ -1,0 +1,25 @@
+<div class='jumbotron'>
+  <h1>¿Quiénes somos?</h1>
+  <p class='lead'>
+    Somos una Consultora Actuarial con amplia experiencia, más de treinta años, en el sector asegurador desarrollando y asesorando proyectos de ámbito  no sólo actuarial sino también financiero y de seguros.
+  </p>
+</div>
+
+<div class='row'>
+  <div class='col-sm-4'>
+    <img src='<%= static_path(@conn, "/images/antonio.jpg") %>' class="img-circle" alt="Antonio Abril" width="100" height="100">
+  </div>
+  <div class='col-sm-8'>
+    <h4>Antonio Abril - Director</h4>
+    <ul>
+      <li>Economista y Actuario de seguros por la Universidad Complutense de Madrid.</li>
+      <li>Miembro Titular del Instituto de Actuarios Españoles.</li>
+      <li>Perito Actuario.</li>
+      <li>Máster MDA por ICEA.</li>
+      <li>Formador en seguros.</li>
+      <li>Especialista en Previsión Social.</li>
+      <li>Solvencia II.</li>
+      <li>Especialista en Fiscalidad.</li>
+    </ul>
+  </div>
+</div>
