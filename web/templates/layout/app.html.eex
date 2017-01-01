@@ -34,7 +34,7 @@
             <p class='navbar-text'><b>Abril Consulting</b></p>
           </div>
           <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav pull-right">
+            <ul class="nav navbar-nav">
               <li role="presentation"><a class="nav-lin" href="/servicios">Servicios</a></li>
               <li role="presentation"><a class="nav-lin" href="/quienes_somos">¿Quiénes somos?</a></li>
               <li role="presentation"><a class="nav-lin" href="/contacto">Contacto</a></li>
