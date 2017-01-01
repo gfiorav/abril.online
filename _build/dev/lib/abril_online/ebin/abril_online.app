@@ -9,11 +9,10 @@
                         'Elixir.AbrilOnline.LayoutView',
                         'Elixir.AbrilOnline.PageController',
                         'Elixir.AbrilOnline.PageView',
-                        'Elixir.AbrilOnline.Repo','Elixir.AbrilOnline.Router',
+                        'Elixir.AbrilOnline.Router',
                         'Elixir.AbrilOnline.Router.Helpers',
                         'Elixir.AbrilOnline.UserSocket',
                         'Elixir.AbrilOnline.Web']},
               {mod,{'Elixir.AbrilOnline',[]}},
               {applications,[kernel,stdlib,elixir,phoenix,phoenix_pubsub,
-                             phoenix_html,cowboy,logger,gettext,phoenix_ecto,
-                             postgrex]}]}.
+                             phoenix_html,cowboy,logger,gettext]}]}.
