@@ -8,12 +8,3 @@ config :abril_online, AbrilOnline.Endpoint,
 
 # Print only warnings and errors during test
 config :logger, level: :warn
-
-# Configure your database
-config :abril_online, AbrilOnline.Repo,
-  adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
-  database: "abril_online_test",
-  hostname: "localhost",
-  pool: Ecto.Adapters.SQL.Sandbox

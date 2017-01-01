@@ -5,14 +5,9 @@
 # is restricted to this project.
 use Mix.Config
 
-# General application configuration
-config :abril_online,
-  ecto_repos: [AbrilOnline.Repo]
-
 # Configures the endpoint
 config :abril_online, AbrilOnline.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "7ujSg1Tj8UmZ3a3jNINwwk4Eg/r5JVJv91aOtaTSwjW1UseIiPQgCczx0S5MlejN",
   render_errors: [view: AbrilOnline.ErrorView, accepts: ~w(html json)],
   pubsub: [name: AbrilOnline.PubSub,
            adapter: Phoenix.PubSub.PG2]
