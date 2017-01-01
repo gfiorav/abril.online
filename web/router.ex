@@ -16,7 +16,7 @@ defmodule AbrilOnline.Router do
   scope "/", AbrilOnline do
     pipe_through :browser # Use the default browser stack
 
-    get "/", PageController, :quienes_somos
+    get "/", PageController, :servicios
 
     get "/quienes_somos", PageController, :quienes_somos
     get "/servicios", PageController, :servicios
