@@ -7,7 +7,7 @@
 
 <div class='row'>
   <div class='col-md-6 col-xs-12' style="padding-top: 5px">
-    <a href="tel:+34-609-12-34-37" class="btn btn-primary btn-block" role="button"><i class='fa fa-phone fa-2x' style="padding-right: 10px"></i>(+34 609 12 34 37)</a>
+    <a href="tel:+34-609-12-34-37" class="btn btn-primary btn-block" role="button"><i class='fa fa-phone fa-2x' style="padding-right: 10px"></i>+34 609 12 34 37</a>
   </div>
   <div class='col-md-6 col-xs-12 tex' style="padding-top: 5px">
     <a href="mailto:direccion@abril.online" class="btn btn-primary btn-block" role="button"><i class='fa fa-envelope fa-2x' style="padding-right: 10px"></i>direccion@abril.online</a>
