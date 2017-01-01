@@ -18,12 +18,8 @@ defmodule AbrilOnline.Router do
 
     get "/", PageController, :servicios
 
-    get "/quienes_somos", PageController, :quienes_somos
     get "/servicios", PageController, :servicios
-    get "/solvencia_ii", PageController, :solvencia_ii
-    get "/prevision_social", PageController, :prevision_social
-    get "/formacion", PageController, :formacion
-    get "/varios", PageController, :varios
+    get "/quienes_somos", PageController, :quienes_somos
     get "/contacto", PageController, :contacto
   end
 end
