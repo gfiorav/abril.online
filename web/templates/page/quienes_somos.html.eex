@@ -6,10 +6,10 @@
 </div>
 
 <div class='row'>
-  <div class='col-md-4 col-xs-12' style="padding-top: 5px">
+  <div class='col-md-4 col-xs-12' style="padding-bottom: 20px">
     <img src='<%= static_path(@conn, "/images/antonio.jpg") %>' class="img-circle center-block" alt="Antonio Abril" width="200" height="200">
   </div>
-  <div class='col-md-8 col-xs-12' style="padding-top: 5px">
+  <div class='col-md-8 col-xs-12'>
     <div class='col-md-8 col-xs-12'>
     <div class="panel panel-default">
       <div class="panel-heading">Antonio Abril - Director</div>
