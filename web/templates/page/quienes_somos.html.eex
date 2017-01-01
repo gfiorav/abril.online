@@ -10,16 +10,19 @@
     <img src='<%= static_path(@conn, "/images/antonio.jpg") %>' class="img-circle center-block" alt="Antonio Abril" width="200" height="200">
   </div>
   <div class='col-md-8 col-xs-12'>
-    <h4>Antonio Abril - Director</h4>
-    <ul>
-      <li>Economista y Actuario de seguros por la Universidad Complutense de Madrid.</li>
-      <li>Miembro Titular del Instituto de Actuarios Españoles.</li>
-      <li>Perito Actuario.</li>
-      <li>Máster MDA por ICEA.</li>
-      <li>Formador en seguros.</li>
-      <li>Especialista en Previsión Social.</li>
-      <li>Solvencia II.</li>
-      <li>Especialista en Fiscalidad.</li>
-    </ul>
+    <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Antonio Abril - Director</div>
+      <div class="panel-body">
+        Economista y Actuario de seguros por la Universidad Complutense de Madrid. <br>
+        Miembro Titular del Instituto de Actuarios Españoles. <br>
+        Perito Actuario. <br>
+        Máster MDA por ICEA. <br>
+        Formador en seguros. <br>
+        Especialista en Previsión Social. <br>
+        Solvencia II. <br>
+        Especialista en Fiscalidad. <br>
+      </div>
+    </div>
   </div>
 </div>
