@@ -1,0 +1,101 @@
+<div class='jumbotron text-center'>
+  <h1>Servicios</h1>
+  <p class='lead'>
+    Aquí puede encontrar información sobre lo que Abril Consulting puede ofrecerle a usted o a su grupo.
+  </p>
+</div>
+
+<div class='row'>
+  <div class='col-md-4 col-xs-12'>
+    <p class='text-center'><i class="fa fa-suitcase fa-5x" aria-hidden="true"></i></p>
+  </div>
+  <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Servicios generales</div>
+      <div class="panel-body">
+        Valoraciones Actuariales.<br>
+        Peritos Actuarios de seguros: daños accidentes de tráfico, lucro cesante, etc.<br>
+        Revisión Plan Financiero-Actuarial de Planes de Pensiones.<br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-md-4 col-xs-12'>
+    <p class='text-center'><i class="fa fa-money fa-5x" aria-hidden="true"></i></p>
+  </div>
+  <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Solvencia II</div>
+      <div class="panel-body">
+        Cálculo de SCR, MCR. <br>
+        Régimen Especial de Solvencia. <br>
+        Best Estimate, Risk Margin. <br>
+        Función Actuarial. <br>
+        Gobernanza. <br>
+        Auditoria Interna. <br>
+        ORSA. <br>
+        Análisis, cuantificación e identificación de riesgos. <br>
+        Gerencia de Riesgos. <br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-md-4 col-xs-12'>
+    <p class='text-center'><i class="fa fa-users fa-5x" aria-hidden="true"></i></p>
+  </div>
+  <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Previsión social</div>
+      <div class="panel-body">
+        <h5>Personal o individual</h5>
+          <ul>
+            <li>Planificación jubilación.</li>
+            <li>PPI´s, PPA´s.</li>
+          </ul>
+          <h5>Empresa</h5>
+          <ul>
+            <li>PPSE.</li>
+            <li>Prejubilaciones y ERE´s.</li>
+            <li>Otras valoraciones.</li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-md-4 col-xs-12'>
+    <p class='text-center'><i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i></p>
+  </div>
+  <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Formación</div>
+      <div class="panel-body">
+        Formación In-Company.<br>
+        Cursos a medida.<br>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='row'>
+  <div class='col-md-4 col-xs-12'>
+    <p class='text-center'><i class="fa fa-info-circle fa-5x" aria-hidden="true"></i></p>
+  </div>
+  <div class='col-md-8 col-xs-12'>
+    <div class="panel panel-default">
+      <div class="panel-heading">Varios</div>
+      <div class="panel-body">
+        Notas Técnicas.<br>
+        Creación e Implementación de productos.<br>
+        Programas de Reaseguro.<br>
+        Garantías Complementarias.<br>
+      </div>
+    </div>
+  </div>
+</div>
+
