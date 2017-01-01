@@ -28,8 +28,8 @@
               <span class="icon-bar"></span>
             </button>
 
-            <a href="/quienes_somos" class="navbar-brand">
-              <img src='<%= static_path(@conn, "/images/ac_min.png") %>' width="20" height="20">
+            <a href="/quienes_somos" class="navbar-brand" style="padding: 0">
+              <img src='<%= static_path(@conn, "/images/ac_min.png") %>' style="margin: 5px 10px" width="40" height="40">
             </a>
             <p class='navbar-text'><b>Abril Consulting</b></p>
           </div>
